@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/NikkaBawarchee/static/css/main.1b79184c.css",
+    "main.js": "/NikkaBawarchee/static/js/main.8dcf1e82.js",
+    "static/js/787.d3dfba4a.chunk.js": "/NikkaBawarchee/static/js/787.d3dfba4a.chunk.js",
+    "static/media/tea-91.gif": "/NikkaBawarchee/static/media/tea-91.758030af43855935a34e.gif",
+    "static/media/logo.svg": "/NikkaBawarchee/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/NikkaBawarchee/index.html",
+    "main.1b79184c.css.map": "/NikkaBawarchee/static/css/main.1b79184c.css.map",
+    "main.8dcf1e82.js.map": "/NikkaBawarchee/static/js/main.8dcf1e82.js.map",
+    "787.d3dfba4a.chunk.js.map": "/NikkaBawarchee/static/js/787.d3dfba4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b79184c.css",
+    "static/js/main.8dcf1e82.js"
+  ]
+}
