@@ -11,7 +11,7 @@ function App() {
         <Banner></Banner>
         <Router>
           <div className='options'>
-            <NavLink to="/food" className='optionFood'>FOOD</NavLink>
+            <NavLink to="/food" className='optionFood'>FOOOD</NavLink>
             <NavLink to="/beverages" className='optionBev'>BEVERAGES</NavLink>
             <NavLink to="/snacks" className='optionSnacks'>SNACKS</NavLink>
           </div>
