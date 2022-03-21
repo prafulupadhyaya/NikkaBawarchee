@@ -24,10 +24,131 @@
   color: white;
 }
 
+.mainContainer{
+  /* background-color: #282c34; */
+}
 .App-link {
   color: #61dafb;
 }
 
+.bannerImage{
+  float: left;
+  width: 20%;
+  height: 20%;
+}
+
+.bannerDiv{
+  display: flex;    
+  width:100%;
+  background-color: #282c34;
+  align-items:center;
+  
+}
+
+.menu{
+  
+  /* color: #282c34; */
+  margin-bottom: 1vw;
+  margin-left: 2vw;
+  margin-right: 2vw;
+  
+}
+
+.menuInside{
+  
+  color: #282c34;
+  margin-bottom: 1vw;
+
+  
+}
+
+
+.menuTable{
+  
+  background-image: url(../public/tea-91.gif);
+  height: 90%;
+  width:90%;
+  font-size: 1.5vw;
+  margin-left: auto;
+  margin-right: auto;
+  padding:2vw;
+  
+}
+td{
+  text-align: right;
+
+}
+th{
+  text-align: left;
+  
+}
+.menuItems{
+  color: white;
+  text-align: center;
+}
+
+.options{
+display: flex;
+
+align-items: center;
+
+place-content: center;
+margin-top: 1vw;
+margin-bottom: 1vw;
+}
+
+.optionFood{
+  
+  padding:1vw;
+  flex-direction: row;
+  background-color: #282c34;
+  border-radius: 2%;
+  max-width: 100%;
+  font-size: 2vw;
+  color: white;
+  margin-left: 0.3vw;
+  text-decoration: none;
+}
+
+.active { 
+  color:gold ;
+  font-weight:bold;
+  background-color: gray;
+}
+.optionBev,.optionSnacks{
+
+  padding:1vw;
+  background-color: #282c34;
+  border-radius: 2%;
+  max-width: 100%;
+  font-size: 2vw;
+  color: white;
+  margin-left: 0.3vw;
+  text-decoration: none;
+}
+
+h4{
+  color: black;
+
+}
+h1{
+  padding: 0px;
+  padding-left: 1vw;
+  color: whitesmoke;
+  margin: 0%;
+  font-size: 7vw;
+  font-family:cursive;
+  text-align: center;
+  
+}
+
+button{
+  border: 0px;
+  width: 100%;
+  font-size: 1.5vw;
+  padding: 1vw;
+  margin-bottom: 1vw;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -35,4 +156,8 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+img{
+  max-width: 100%;
 }
