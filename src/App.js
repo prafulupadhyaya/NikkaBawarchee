@@ -25,7 +25,7 @@ function App() {
           <Route exact path="/snacks">
             <Beverages />
           </Route>
-          <Route exact path="/">
+          <Route path="/">
           <Food />
           </Route>
         </Switch>
